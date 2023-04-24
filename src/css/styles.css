@@ -9,7 +9,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
   color: #212121;
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg, #52dcee, #3ce797, #d52341, #d2d523);
   background-size: 400% 400%;
   background-attachment: fixed;
   animation: gradient 15s ease infinite;
@@ -61,8 +61,8 @@ button {
   border-radius: 10px;
   cursor: pointer;
   color: #fff;
-  background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background: linear-gradient(90deg, #f403f4, #5c41f4, #3bff8d, #f48403);
+  background: linear-gradient(-45deg, #64ee52, #5b3ce7, #32d523, #234cd5);
   background-size: 300%;
   animation: gradient 15s ease infinite;
 }
@@ -83,7 +83,7 @@ button:hover {
 }
 
 button:active {
-  background: linear-gradient(32deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+  background: linear-gradient(32deg, #03f423, #f441dc, #ffeb3b, #1303f4);
 }
 
 .visually-hidden {
